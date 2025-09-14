@@ -1,0 +1,131 @@
+
+
+     -------Starting Program Execution-------
+
+
+A Header Library is Declared
+A Header Library is Declared
+
+Functions 'ama' declared with a,b,c Parameter(s)
+Printing Value: 12
+Function declaration finished
+
+
+Functions 'fun2' declared with No Parameter
+Printing Value: 13
+Error: Nothing returned 
+Function declaration finished with Real return type 
+
+This is a comment: Single line comment
+
+Error: Variable 'c' doesn't exist
+Printing Value: 0.000000
+Int type variable declared 'a'
+Int type variable declared 'b'
+Real type variable declared 'xy'
+Int type variable declared 'p1'
+Int type variable declared 'p2'
+String type variable declared 'str'
+Printing Value: 25
+Printing Value: 29
+Printing Value: 50
+Printing Value: 2
+Printing Value: 4
+Printing Value: 21.200000
+String: test
+Printing Value: 0.000000
+Value of a is taken input
+Value of b is taken input
+Int type variable declared 't'
+This is a comment: Multiline 
+	Comment
+
+Printing Value: 0.850904
+Printing Value: 1.619775
+Printing Value: 1.653213
+Printing Value: 120
+Printing Value: 5
+Int type variable declared 'p'
+If condition started.
+Printing Value: 1
+IF block 1: TRUE.
+
+Printing Value: 2
+ELSE block 1: IGNORE.
+
+If condition finished.
+
+If condition started.
+Printing Value: 1
+IF block 1: TRUE.
+
+Printing Value: 2
+ELIF block 1: IGNORE.
+
+If condition started.
+Printing Value: 3
+IF block 2: TRUE.
+
+Printing Value: 4
+ELSE block 2: IGNORE.
+
+If condition finished.
+
+ELIF block 1: IGNORE.
+
+Printing Value: 5
+ELSE block 1: IGNORE.
+
+If condition finished.
+
+If condition started.
+Printing Value: 1
+IF block 1: TRUE.
+
+ELSE block 1: IGNORE.
+
+If condition finished.
+
+Int type variable declared 'q'
+Printing Value: 5
+START OF FOR LOOP: 
+FOR LOOP at Value 3
+FOR LOOP at Value 5
+FOR LOOP at Value 7
+FOR LOOP at Value 9
+End OF FOR LOOP. 
+
+Printing Value: 6
+START OF WHILE LOOP: 
+WHILE LOOP at Value 1
+WHILE LOOP at Value 2
+WHILE LOOP at Value 3
+WHILE LOOP at Value 4
+End OF WHILE LOOP. 
+
+START OF WHILE LOOP: 
+WHILE LOOP at Value 4
+WHILE LOOP at Value 5
+WHILE LOOP at Value 6
+WHILE LOOP at Value 7
+WHILE LOOP at Value 8
+End OF WHILE LOOP. 
+
+Switch statement begin
+Printing Value: 1
+Case statement finished
+Printing Value: 3
+Case statement finished
+Printing Value: 5
+Default statement finished
+Switch statement finished
+4, parameters used to call function 'ama'
+Functions called
+'a' = 4, parameters used to call function 'ma'
+Error: 'ma' named function has no declaration
+Error: Variable 'a' already exists
+
+
+     -------Program Started Successfully-------
+
+

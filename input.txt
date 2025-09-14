@@ -1,0 +1,104 @@
+@import stdio.h
+@import math.h
+
+module ama(int a,real b,int c):
+	write->12;
+end
+
+module fun2() -> real:
+	write->13;
+end
+
+
+start:
+	/*Single line comment*/
+
+	write->c;
+	int a := 5**2;
+	int b := 30;
+	real xy := 10+23-11.8;
+	int p1 := (20/2)*5;
+	int p2 := 20%9;
+	string str:="test";
+	b--;
+    	write->a, b, p1, p2;
+	write->4;
+	write-> xy,str;
+    	read <- a,b;
+	int t := 5;
+    
+    /*Multiline 
+	Comment*/
+
+	write->SIN(45);
+	write->TAN(45);
+	write->LOG(45);
+	a:=SQRT(25);
+	write->(5)!;
+	write -> a;
+
+	int p := 5;
+	if (p>=10):
+		write->1;
+	end
+	else:
+		write->2;
+	end
+
+	if (p>2 & p<5):
+		write->1;
+	end
+	elseif (p>10) :
+		write->2;
+	end
+	elseif (p>5 | p<2):
+		if (p==6):
+            write->3;
+        end
+        else:
+            write->4;
+        end
+	end
+	else:
+		write->5;
+	end	
+	
+	if (t==5):
+		write->1;
+	end
+	else:
+		;
+	end
+
+	int q:=3;
+	from (q --> 10 step 2):
+		write->t;
+		t++;
+	end
+
+	a:=4;
+	b:=9;
+
+	while (a>b)
+	repeat:
+		while (1>5)
+		repeat:
+			write->t;
+		end
+	end
+
+	choice(t):
+	case 1:
+		write->1;
+	case 3:
+		write->3;
+	def:
+		write->5;
+	end
+
+	call ama(4);
+	call ma(a);
+
+	int a;	
+
+end
